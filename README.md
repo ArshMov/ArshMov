@@ -4,8 +4,8 @@
 
 # 💻 زبان ها و فریم ورک ها مسلط:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-7FA900?style=for-the-badge&logo=django&logoColor=405500)
-# ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) کتابخونه های مسلط در پایتون:
- ![Pyrogram](https://img.shields.io/badge/pyrogram-blue?style=for-the-badge&logo=telegram&logoColor=ffdd54)
+# ![Python](https://img.shields.io/badge/py-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) کتابخونه های مسلط در پایتون:
+ ![Python](https://img.shields.io/badge/pyrogram-blue?style=for-the-badge&logo=telegram&logoColor=ffdd54) 
 
 
 ### ✍️ نقل قول:
