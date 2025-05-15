@@ -2,7 +2,7 @@
 <p>برنامه‌نویس پایتون با علاقه‌ به ساخت ابزار، بات، بازی و اسکریپت‌های کاربردی.<br>همیشه دنبال ایده‌های تازه، حل چالش‌های عجیب و نوشتن کدی تمیز و قابل اعتماد.</p>
 <br>
 
-## 💻 زبان ها و فریم ورک ها مسلط:
+## 💻 زبان ها ، فریم ورک ها و کتابخانه های مسلط:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/Django-7FA900?style=for-the-badge&logo=django&logoColor=405500)
 ![Javascript](https://img.shields.io/badge/javascript-efd81d?style=for-the-badge&logo=javascript&logoColor=ff9e00) <br>
